@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Mahindra 575 DI Tractor",
+    "type": "Tractor",
+    "owner": "Senthil Kumar",
+    "location": "Thanjavur, Tamil Nadu",
+    "availability": "Available",
+    "next_available": "Today",
+    "price": "₹2,500",
+    "original_price": "₹3,200",
+    "discount": "22% off",
+    "offer": "Big Billion Days Price",
+    "rating": 4.7,
+    "reviews": 248,
+    "sponsored": true,
+    "features": [
+      "55 HP, 2100 RPM",
+      "Power steering",
+      "Suitable for ploughing & hauling"
+    ],
+    "image_url": "/img/tractor.jpg"
+  },
+  {
+    "id": 2,
+    "name": "John Deere Harvester 530",
+    "type": "Harvester",
+    "owner": "Ravi Agricultural Services",
+    "location": "Erode, Tamil Nadu",
+    "availability": "Available",
+    "next_available": "Tomorrow",
+    "price": "₹5,800",
+    "original_price": "₹6,500",
+    "discount": "11% off",
+    "offer": "Bestseller",
+    "rating": 4.8,
+    "reviews": 180,
+    "sponsored": false,
+    "features": [
+      "Multi-crop harvester",
+      "Low fuel consumption"
+    ],
+    "image_url": "/img/harvester.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cultivator 9 Tine Heavy Duty",
+    "type": "Cultivator",
+    "owner": "Velu Farm Tools",
+    "location": "Salem, Tamil Nadu",
+    "availability": "Available",
+    "next_available": "This Week",
+    "price": "₹900",
+    "original_price": "₹1,200",
+    "discount": "25% off",
+    "offer": "Limited Time Offer",
+    "rating": 4.5,
+    "reviews": 95,
+    "sponsored": false,
+    "features": [
+      "9 tines heavy duty",
+      "Ideal for seedbed preparation"
+    ],
+    "image_url": "/img/cultivator.jpg"
+  }
+]
+
+
