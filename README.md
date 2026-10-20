@@ -2,6 +2,9 @@
 
 AgroConnect is a modern agriculture platform designed to help farmers, buyers, and agri-service providers connect in one intelligent ecosystem. The app brings together farm management, equipment access, marketplace listings, financial support information, and local agricultural resources in a single streamlined experience.
 
+# Deployed Link 
+https://agrico-sooty.vercel.app/
+
 ## Why AgroConnect?
 
 Agriculture today needs better access to tools, information, and financial opportunities. AgroConnect helps farmers:
@@ -35,11 +38,11 @@ Agriculture today needs better access to tools, information, and financial oppor
 
 ## Project Structure
 
-- `src/` — frontend application code
-- `server/` — backend and API services
-- `public/` — static assets and images
-- `database_schema.sql` — database schema
-- `database_data.sql` — sample data
+- `src/` â€” frontend application code
+- `server/` â€” backend and API services
+- `public/` â€” static assets and images
+- `database_schema.sql` â€” database schema
+- `database_data.sql` â€” sample data
 
 ## Getting Started
 
